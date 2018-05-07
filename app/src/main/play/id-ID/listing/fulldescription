@@ -1,9 +1,8 @@
-Activity Diary memungkinkan untuk mencatat aktivitas Anda pada buku harian. Anda dapat menyematkan catatan dan gambar ke aktivitas dan rincian catatan seperti jenis dari sayuran yang telah Anda hasilkan saat berkebun. Tampilan buku harian memberikan gambaran umum tentang apa yang telah Anda lakukan dan kapan.
-Fungsi untuk mengkategorikan kegiatan dan mengingat ulang akan kegiatan yang telah direncanakan.
+Activity Diary allows to record a diary for your activities. You can attach notes and pictures to the activies and by that record details like the kind of vegetables you seeded while gardening. The diary view provides an overview of what you did and when.
+The functions to categorize activites and get a reminder for recurrent actions are planned.
 
-Activity Diary adalah perangkat lunak bebas: Anda bisa membagikan dan/atau mengubahnya menurut ketentuan dari GNU General Public License yang dikeluarkan oleh Lembaga Perangkat lunak Bebas, salah satu lisensi versi ke-3, atau (sesuai dengan pilihan Anda) versi yang lebih baru.
+Activity Diary is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Program ini dibagikan dengan harapan akan bermamfaat, akan tetapi TAMPA JAMINAN APAPUN; bahkan tanpa ada jaminan tersirat atas KELAYAKAN UNTUK DIPERDAGANGKAN atau KESESUAIAN UNTUK TUJUAN TERTENTU.  Untuk lebih jelasnya lihat GNU General Public License.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-Untuk rincian hukumnya lihat
-https://www.gnu.org/licenses/.
+For legal details see https://www.gnu.org/licenses/.
