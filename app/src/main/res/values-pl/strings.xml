@@ -94,6 +94,7 @@
   <string name="activity_title_edit_new">New activity</string>
   <string name="activity_title_manage_activities">Manage activities</string>
   <string name="activity_title_history">Dziennik</string>
+  <string name="activity_title_history_detail">Diary entry</string>
   <string name="activity_subtitle_main">Co robisz?</string>
   <string name="activity_title_about">O</string>
   <string name="activity_title_settings">Ustawienia</string>
@@ -101,6 +102,7 @@
   <string name="dialog_title_note">Uwaga</string>
   <!-- actions -->
   <string name="action_delete">Delete activity</string>
+  <string name="action_diary_entry_delete">Delete entry</string>
   <string name="action_store">Zapisać</string>
   <string name="action_filter">Filtr</string>
   <string name="action_undo">COFNIJ</string>
@@ -154,6 +156,16 @@
   <string name="edit_existing_activity_toast">Now editing the existing activity with name %1$s.</string>
   <!-- history -->
   <string name="default_datetime_format">yyyy.MM.dd HH: mm</string>
+  <string name="date_format">yyyy.MM.dd</string>
+  <string name="time_format">HH:mm</string>
+  <string name="headline_start">Start</string>
+  <string name="headline_end">End</string>
+  <string name="desc_start_date">Start date</string>
+  <string name="desc_start_time">Start time</string>
+  <string name="desc_end_date">End date</string>
+  <string name="desc_end_time">End time</string>
+  <string name="adjust_adjacent_times">Adjust adjacent diary entries</string>
+  <string name="constraint_positive_duration">The activity shall always start before it ends.</string>
   <!-- relative dates -->
   <string name="today">Dzisiaj</string>
   <string name="yesterday">Wczoraj</string>
